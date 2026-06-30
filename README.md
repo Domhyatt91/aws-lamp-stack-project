@@ -61,7 +61,7 @@ Custom HTML Website
 ### 2. Connect to the Server
 
 ```bash
-ssh -i your-key.pem ubuntu@YOUR_PUBLIC_IP
+ssh -i your-key.pem ubuntu@EC2-PUBLIC-IP>
 ```
 
 ### 3. Update Ubuntu
@@ -132,7 +132,7 @@ The web server is publicly accessible over HTTP and serves a custom webpage.
 
 Aspiring Cloud & DevOps Engineer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Domhyatt91
 
 ---
 
